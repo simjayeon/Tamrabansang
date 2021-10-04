@@ -13,6 +13,7 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProvider;
 
 import com.architecture.tamrabansang.R;
+import com.architecture.tamrabansang.databinding.FragmentDashboardBinding;
 
 public class DashboardFragment extends Fragment {
 
